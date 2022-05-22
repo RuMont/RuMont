@@ -6,4 +6,4 @@
 - 💬 Ask me about JavaScript quirks
 - 📫 How to reach me: rumont98@gmail.com
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@RuMont" frameborder="0"></iframe>
+![](https://github-readme-stats.vercel.app/api?username=RuMont)
