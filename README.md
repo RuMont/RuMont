@@ -7,6 +7,8 @@
 - 📫 How to reach me: rumont98@gmail.com
 
 <p align='center'>
+  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuMont&layout=compact)
+  
 </p>
 
